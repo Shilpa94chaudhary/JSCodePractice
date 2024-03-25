@@ -2,7 +2,7 @@
 
 # part_1
 
-Variables & Data Types
+1. **Variables & Data Types**
 
 > > Introduction To Javascript
 > > What Is javascript
@@ -12,3 +12,28 @@ Variables & Data Types
 > > Let, const and Var
 > > DataTypes in Js
 > > Practice Questions
+
+2. **Operators & Condition**
+
+**Arithmetic Operators**
+
+> > +, -, \*, /
+> > Modulus %
+> > Exponentiation ^
+> > Increment ++
+> > Decrement --
+
+**Assignment Operators**
+
+> > +=
+> > -=
+> > \*=
+> > /=
+
+**Comparison Operator**
+
+> > == Equal to
+> > != Not equal to
+> > === Equal to & Type
+> > !== Not equal to & Type
+> > <, >, >= , <=
