@@ -37,3 +37,10 @@
 > > === Equal to & Type
 > > !== Not equal to & Type
 > > <, >, >= , <=
+
+3. **Loops & String**
+
+> > for() loop
+> > while() loop
+> > do-while loop
+> > for-of loop
