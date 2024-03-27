@@ -44,3 +44,25 @@
 > > while() loop
 > > do-while loop
 > > for-of loop
+
+> > String -> let str = 'India'
+> > Strin have length -> str.length
+> > String Indices -> str[0], str[1], str[3],...
+
+**Template Literals**
+
+> > Template Literals in JS
+> > A way to have embedded expressions in strings.
+> > `this is template literal`
+> > To create strings by doing substitution of placeholders
+> > `string text ${expression} string text`
+
+**String**
+
+> > Escape character \n, \t etc.
+> > String Methods
+> >
+> > > To Upper Case string.toUpperCase()
+> > > To Lower Case string.toLowerCase()
+> > > Trim whitespaces string.trim() , this method will trim extra space before and after string not in between the string.
+> > > Slice method string.charAt(idx)

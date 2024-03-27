@@ -80,6 +80,7 @@ for (let i = 0; i <= 100; ++i) {
 /* Create a game where you start with any random game number. 
 Ask the user to keep guessing the game number until the user enters correct value.*/
 
+/* Commented code - code will give popup
 let gameNum = 25;
 let userNumber = prompt('Guess the ame number: ');
 
@@ -88,3 +89,46 @@ while (userNumber != gameNum) {
 }
 
 console.log('Congratulation!!!! you entered the right number.');
+*/
+
+// String
+let str1 = 'The Indian peacock, Pavo cristatus, the national bird of India.';
+
+// Template Literals
+let obj = {
+  item: 'pen',
+  price: 10,
+};
+
+// Without Template Literals
+console.log('The cost of', obj.item, 'is', obj.price, 'rupees');
+
+// With Template Literals
+console.log(`The cost of ${obj.item} is ${obj.price} rupees.`);
+
+// We can also give expressions in Template Literals
+console.log(`The sum of 1 to 5 numbers is ${1 + 2 + 3 + 4 + 5}.`);
+
+// Escape character
+console.log('My name is\nShilpa');
+let strr = 'My name is\tShilpa';
+console.log(strr.length);
+
+// String Methods
+
+let string = 'My name is Shilpa.';
+
+// To Upper Case
+let newStr = string.toUpperCase();
+console.log(string);
+console.log(newStr);
+// To Lower Case
+newStr = string.toLowerCase();
+console.log(string);
+console.log(newStr);
+
+// Trim whitespaces
+string = '     Hello    !!  My  name  is  Shilpa.    ';
+newStr = string.trim();
+console.log(string);
+console.log(newStr);
